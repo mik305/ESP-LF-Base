@@ -1,0 +1,75 @@
+Change Component Comment : Designator=R2 Old Comment=10R New Comment=10k
+Added Component: Designator=C26(C 0402)
+Added Component: Designator=C27(C 0402)
+Added Component: Designator=C28(C 0402)
+Added Component: Designator=C29(C 0402)
+Added Component: Designator=C30(C 0402)
+Added Component: Designator=C31(C 0402)
+Added Component: Designator=R14(R 0402)
+Added Component: Designator=R15(R 0402)
+Added Component: Designator=R16(R 0402)
+Added Component: Designator=R17(R 0402)
+Added Component: Designator=S1(PTS810SJG250SMTRLFS)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTS810SJK250SMTRLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTS810SJK250SMTRLFS/C%26K/view-part/274682/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S(PTS810SJG250SMTRLFS)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTS810SJK250SMTRLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTS810SJK250SMTRLFS/C%26K/view-part/274682/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C5-1
+Added Pin To Net: NetName=12V Pin=C6-1
+Added Pin To Net: NetName=12V Pin=C7-1
+Added Pin To Net: NetName=12V Pin=C8-1
+Added Pin To Net: NetName=EN Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=3.3V Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=3.3V Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=3.3V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=12V Pin=IC2-5
+Added Pin To Net: NetName=12V Pin=IC3-5
+Added Pin To Net: NetName=3.3V Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R15-2
+Added Pin To Net: NetName=EN Pin=R16-1
+Added Pin To Net: NetName=IO0 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S-1
+Added Pin To Net: NetName=GND Pin=S-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=R14-1
+Added Pin To Net: NetName=NetC27_1 Pin=R16-2
+Added Pin To Net: NetName=NetC27_1 Pin=S-3
+Added Pin To Net: NetName=NetC27_1 Pin=S-4
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=R15-1
+Added Pin To Net: NetName=NetC28_1 Pin=R17-2
+Added Pin To Net: NetName=NetC28_1 Pin=S1-3
+Added Pin To Net: NetName=NetC28_1 Pin=S1-4
+Added Net: Name=NetC28_1
+Added Member To Class: ClassName=MCU_LF Member=Component C26 1uF
+Added Member To Class: ClassName=MCU_LF Member=Component C27 100nF
+Added Member To Class: ClassName=MCU_LF Member=Component C28 100nF
+Added Member To Class: ClassName=Drivers Member=Component C29 0.1uF
+Added Member To Class: ClassName=Drivers Member=Component C30 0.1uF
+Added Member To Class: ClassName=Drivers Member=Component C31 0.1uF
+Added Member To Class: ClassName=MCU_LF Member=Component R14 10k
+Added Member To Class: ClassName=MCU_LF Member=Component R15 10k
+Added Member To Class: ClassName=MCU_LF Member=Component R16 100R
+Added Member To Class: ClassName=MCU_LF Member=Component R17 100R
+Added Member To Class: ClassName=MCU_LF Member=Component S1 PTS810SJK250SMTRLFS
+Added Member To Class: ClassName=MCU_LF Member=Component S PTS810SJK250SMTRLFS

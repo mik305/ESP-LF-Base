@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [lf-esp.PrjPcb]
+   Generated File[LF-ESP-V1_Copper_Signal_Top.gbr]
+   Generated File[LF-ESP-V1_Copper_Signal_Bot.gbr]
+   Generated File[LF-ESP-V1_Pads_Bot.gbr]
+   Generated File[LF-ESP-V1_Pads_Top.gbr]
+   Generated File[LF-ESP-V1_Soldermask_Bot.gbr]
+   Generated File[LF-ESP-V1_Legend_Top.gbr]
+   Generated File[LF-ESP-V1_Paste_Top.gbr]
+   Generated File[LF-ESP-V1_Soldermask_Top.gbr]
+   Generated File[LF-ESP-V1_Mechanical_13.gbr]
+   Generated File[LF-ESP-V1_Mechanical_1.gbr]
+   Generated File[LF-ESP-V1_Mechanical_15.gbr]
+   Generated File[LF-ESP-V1_Profile.gbr]
+   Generated File[LF-ESP-V1_PTH_Drill.gbr]
+   Generated File[LF-ESP-V1_Drawing_1.gbr]
+   Generated File[LF-ESP-V1_Drillmap_1.gbr]
+   Generated File[LF-ESP-V1.RUL]
+   Generated File[LF-ESP-V1.EXTREP]
+   Generated File[LF-ESP-V1.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 21:11:44 On 23.03.2025

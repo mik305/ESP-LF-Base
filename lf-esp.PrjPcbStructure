@@ -1,3 +1,5 @@
 Record=TopLevelDocument|FileName=Drivers.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Drivers.SchDoc|FileName=Interface.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Drivers.SchDoc|FileName=MCU_LF.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Drivers.SchDoc|FileName=Power-line.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Drivers.SchDoc|FileName=Sensors.SchDoc|SheetNumber=5

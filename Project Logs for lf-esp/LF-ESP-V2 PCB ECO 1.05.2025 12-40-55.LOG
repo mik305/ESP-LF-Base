@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GPIO3 Pin=IC2-5
+Removed Pin From Net: NetName=GPIO2 Pin=IC2-6
+Removed Pin From Net: NetName=GPIO1 Pin=IC2-7
+Removed Pin From Net: NetName=GPIO5 Pin=IC14-6
+Removed Pin From Net: NetName=GPIO4 Pin=IC14-7
+Added Pin To Net: NetName=GPIO1 Pin=IC2-5
+Added Pin To Net: NetName=GPIO5 Pin=IC14-4
+Added Pin To Net: NetName=GPIO4 Pin=IC14-5
+Added Pin To Net: NetName=GPIO3 Pin=IC14-6
+Added Pin To Net: NetName=GPIO2 Pin=IC14-7
+Added Pin To Net: NetName=M_CURR_1 Pin=IC2-7
+Added Pin To Net: NetName=M_CURR_1 Pin=IC13-1
+Added Net: Name=M_CURR_1
+Added Pin To Net: NetName=M_CURR_2 Pin=IC2-6
+Added Pin To Net: NetName=M_CURR_2 Pin=IC12-1
+Added Net: Name=M_CURR_2

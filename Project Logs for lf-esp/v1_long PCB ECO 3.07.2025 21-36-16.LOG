@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=12V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=12V Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=12V Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=12V Pin=J5-2
+Added Room: Name=U_Drivers
+Added Room: Name=U_ESP
+Added Room: Name=U_ESP-Interface
+Added Room: Name=U_IMU
+Added Room: Name=U_Power-line
+Added Room: Name=U_Sensors1
+Added Room: Name=U_Sensors2
+Added Room: Name=U_Sensors3
+Added Room: Name=U_Sensors4
+Added Room: Name=U_Sensors5
+Added Room: Name=U_Sensors6
+Added Room: Name=U_Sensors7
+Added Room: Name=U_Sensors8
+Added Room: Name=U_Sensors9
+Added Room: Name=U_Sensors10
+Added Room: Name=U_Sensors11
+Added Room: Name=U_Sensors12
+Added Room: Name=U_Sensors13
+Added Room: Name=U_Sensors14
+Added Room: Name=U_Sensors15
+Added Room: Name=U_Sensors16
+Added Room: Name=U_Sensors17
+Added Room: Name=U_Sensors18
+Added Room: Name=U_Sensors19
+Added Room: Name=U_Sensors20
+Added Room: Name=U_Sensors21
+Added Room: Name=U_Sensors22
+Added Room: Name=U_Sensors23
+Added Room: Name=U_Sensors24
+Added Room: Name=U_Sensors25
+Added Room: Name=U_Sensors26
+Added Room: Name=U_Sensors27
+Added Room: Name=U_Sensors28
+Added Room: Name=U_Sensors29
+Added Room: Name=U_Sensors30
+Added Room: Name=U_Sensors31
+Added Room: Name=U_Sensors32
+Added Room: Name=U_STM
+Added Room: Name=U_STM-Interface

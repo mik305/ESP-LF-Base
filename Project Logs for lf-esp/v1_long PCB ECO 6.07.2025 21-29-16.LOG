@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=PWM1 Pin=ESP-18
+Removed Pin From Net: NetName=PWM2 Pin=ESP-19
+Removed Pin From Net: NetName=PWM7 Pin=ESP-20
+Removed Pin From Net: NetName=PWM8 Pin=ESP-21
+Removed Pin From Net: NetName=NetIC1_10 Pin=IC16-55
+Removed Pin From Net: NetName=NetIC1_11 Pin=IC16-56
+Change Component Designator: OldDesignator=DC IN NewDesignator=J5
+Change Component Designator: OldDesignator=ESP NewDesignator=IC1
+Change Component Designator: OldDesignator=Fan NewDesignator=J3
+Change Component Designator: OldDesignator=Mot1 NewDesignator=J7
+Change Component Designator: OldDesignator=Mot2 NewDesignator=J6
+Change Component Designator: OldDesignator=MOT3 NewDesignator=J2
+Change Component Designator: OldDesignator=Mot4 NewDesignator=J1
+Change Component Designator: OldDesignator=STM1 NewDesignator=CON1
+Change Component Designator: OldDesignator=STM2 NewDesignator=CON3
+Added Component: Designator=J9(MSD4A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MSD-4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/msd-4-a/cui-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/msd-4-a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSD-4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-MSD-4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/MSD-4-A?qs=Z%252BL2brAPG1Jll%252BQTi%252Btupg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R 0402)
+Added Component: Designator=R43(R 0402)
+Added Pin To Net: NetName=PWM1 Pin=IC1-15
+Added Pin To Net: NetName=PWM2 Pin=IC1-17
+Added Pin To Net: NetName=PWM7 Pin=IC1-22
+Added Pin To Net: NetName=PWM8 Pin=IC1-23
+Added Pin To Net: NetName=3.3V Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Pin To Net: NetName=GND Pin=J9-G1
+Added Pin To Net: NetName=GND Pin=J9-G2
+Added Pin To Net: NetName=GND Pin=J9-G3
+Added Pin To Net: NetName=GND Pin=J9-G4
+Added Pin To Net: NetName=NetIC1_10 Pin=R19-1
+Added Pin To Net: NetName=NetIC1_11 Pin=R43-1
+Added Pin To Net: NetName=CS Pin=IC1-18
+Added Pin To Net: NetName=CS Pin=J9-2
+Added Net: Name=CS
+Added Pin To Net: NetName=MISO Pin=IC1-21
+Added Pin To Net: NetName=MISO Pin=J9-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=IC1-19
+Added Pin To Net: NetName=MOSI Pin=J9-3
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetIC16_55 Pin=IC16-55
+Added Pin To Net: NetName=NetIC16_55 Pin=R19-2
+Added Net: Name=NetIC16_55
+Added Pin To Net: NetName=NetIC16_56 Pin=IC16-56
+Added Pin To Net: NetName=NetIC16_56 Pin=R43-2
+Added Net: Name=NetIC16_56
+Added Pin To Net: NetName=SCK Pin=IC1-20
+Added Pin To Net: NetName=SCK Pin=J9-5
+Added Net: Name=SCK
+Added Member To Class: ClassName=U_ESP Member=Component J9 MSD-4-A
+Added Member To Class: ClassName=U_ESP Member=Component R19 0
+Added Member To Class: ClassName=U_ESP Member=Component R43 0

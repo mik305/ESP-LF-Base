@@ -1,0 +1,4 @@
+Added Component: Designator=R19(R 0402)
+Added Component: Designator=R43(R 0402)
+Added Member To Class: ClassName=U_ESP Member=Component R19 0
+Added Member To Class: ClassName=U_ESP Member=Component R43 0

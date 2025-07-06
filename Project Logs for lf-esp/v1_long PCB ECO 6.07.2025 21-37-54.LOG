@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetIC16_55 Pin=IC16-55
+Added Pin To Net: NetName=NetIC16_55 Pin=R19-2
+Added Net: Name=NetIC16_55
+Added Pin To Net: NetName=NetIC16_56 Pin=IC16-56
+Added Pin To Net: NetName=NetIC16_56 Pin=R43-2
+Added Net: Name=NetIC16_56
